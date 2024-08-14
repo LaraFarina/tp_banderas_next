@@ -1,10 +1,17 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
-  padding: 6rem;
+  justify-content: center;
   min-height: 100vh;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.center {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
 }
 
 .description {
