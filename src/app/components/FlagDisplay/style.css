@@ -1,10 +1,10 @@
 .flagContainer {
-    margin: 20px 0;
-    text-align: center;
-  }
-  
-  .flag {
-    border: 2px solid #ccc;
-    border-radius: 10px;
-  }
-  
+  margin-bottom: 20px;
+}
+
+.flag {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
